@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JJandula/JJandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Soy Jose Jandula
 
-Here are some ideas to get you started:
+Soy desarrollador web con experiencia en JavaScript, Node.js y React. Me encanta aprender nuevas tecnologías y crear proyectos Front End y Back End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías que uso:
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express
+- **Bases de Datos**: MongoDB, MySQL
+- **DevOps**: Git, GitHub, Docker
+
+### Mis Proyectos:
+- [Portafolio Personal](https://jjportfolioweb.netlify.app/): Mi portafolio donde muestro mis proyectos.
+
+¡Gracias por visitar mi perfil!
