@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there  👋
 
-# Soy Jose Jandula
-
-Soy desarrollador web con experiencia en JavaScript, Node.js y React. Me encanta aprender nuevas tecnologías y crear proyectos Front End y Back End.
+I'm a developer with 7 years of experience specializing in WordPress. I have a background in Microcomputer Systems and Networks, and I'm currently advancing my skills by studying Web Development and pursuing a Full Stack Master's degree. I'm passionate about creating dynamic, user-friendly web solutions and always eager to learn more!
 
 ### Studies:
 
@@ -16,7 +14,7 @@ Soy desarrollador web con experiencia en JavaScript, Node.js y React. Me encanta
 
 
 ### Currently Learning:
-
+[![Skills](https://skillicons.dev/icons?i=react,ts,angular,mongodb,java,php)](https://skillicons.dev)
 
 ### Portfolio:
 [Portafolio Personal](https://jjportfolioweb.netlify.app/): Mi portafolio donde muestro mis proyectos.
