@@ -12,7 +12,7 @@ Soy desarrollador web con experiencia en JavaScript, Node.js y React. Me encanta
 
 
 ### Skills:
-[![Skills](https://skillicons.dev/icons?i=js,html,css,mysql,visualstudio,vite,bootstrap,wordpress,ubuntu,windows,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,mysql,visualstudio,vite,bootstrap,wordpress,github)](https://skillicons.dev)
 
 
 ### Currently Learning:
