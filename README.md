@@ -4,13 +4,21 @@
 
 Soy desarrollador web con experiencia en JavaScript, Node.js y React. Me encanta aprender nuevas tecnologías y crear proyectos Front End y Back End.
 
-### Tecnologías que uso:
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
-- **Bases de Datos**: MongoDB, MySQL
-- **DevOps**: Git, GitHub, Docker
+### Studies:
 
-### Mis Proyectos:
-- [Portafolio Personal](https://jjportfolioweb.netlify.app/): Mi portafolio donde muestro mis proyectos.
+- 💻 Technical Education: Microcomputer Systems and Networks - FINISHED
+- 👨‍💻 Technical Education: Web Application Development - IN PROGRESS
+- 🎓 Master: Full Stack Development - IN PROGRESS
+
+
+### Skills:
+[![Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+### Currently Learning:
+
+
+### Portfolio:
+[Portafolio Personal](https://jjportfolioweb.netlify.app/): Mi portafolio donde muestro mis proyectos.
 
 ¡Gracias por visitar mi perfil!
