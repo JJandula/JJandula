@@ -10,11 +10,11 @@ I'm a developer with 7 years of experience specializing in WordPress. I have a b
 
 
 ### Skills:
-[![Skills](https://skillicons.dev/icons?i=js,html,css,mysql,visualstudio,vite,bootstrap,wordpress,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vite,bootstrap,wordpress,github)](https://skillicons.dev)
 
 
 ### Currently Learning:
-[![Skills](https://skillicons.dev/icons?i=react,ts,angular,mongodb,java,php)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,angular,mysql,mongodb,java,php)](https://skillicons.dev)
 
 ### Portfolio:
 [Portafolio Personal](https://jjportfolioweb.netlify.app/): Mi portafolio donde muestro mis proyectos.
