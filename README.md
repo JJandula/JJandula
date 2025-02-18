@@ -16,7 +16,9 @@ I'm a developer with 7 years of experience specializing in WordPress. I have a b
 ### Currently Learning:
 [![Skills](https://skillicons.dev/icons?i=react,ts,angular,mysql,mongodb,java,php)](https://skillicons.dev)
 
-### Portfolio:
-[Portafolio Personal](https://jjportfolioweb.netlify.app/): Mi portafolio donde muestro mis proyectos.
 
-¡Gracias por visitar mi perfil!
+### Portfolio:
+[Personal Portfolio](https://jjportfolioweb.netlify.app/) 
+
+
+Thank you for visiting my profile!
