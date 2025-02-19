@@ -1,4 +1,7 @@
-## Hi there, my name is Jose {JJ}.  👋
+![HI Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhidnVjbHVwNnZzNnI5czlibmFlbThsZ3hzanMzaHYwZTRnN29wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PAL5bChWnak0WJ32x/giphy.gif) 
+
+# Hi there, my name is Jose { JJ }  👋
+
 
 I'm a developer with 7 years of experience specializing in WordPress. I have a background in Microcomputer Systems and Networks, and I'm currently advancing my skills by studying Web Development and pursuing a Full Stack Master's degree. I'm passionate about creating dynamic, user-friendly web solutions and always eager to learn more!
 
