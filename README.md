@@ -9,8 +9,8 @@ I'm a developer with 7 years of experience specializing in WordPress. I have a b
 ### Studies:
 
 - 🎓 Master: Full Stack Development - IN PROGRESS
-- 💻 Technical Education: Microcomputer Systems and Networks - FINISHED
 - 👨‍💻 Technical Education: Web Application Development - IN PROGRESS
+- 💻 Technical Education: Microcomputer Systems and Networks - FINISHED
 
 <br>
 
