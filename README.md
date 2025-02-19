@@ -16,7 +16,7 @@ I'm a developer with 7 years of experience specializing in WordPress. I have a b
 
 ## Skills 
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vite,wordpress,npm,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,python,visualstudio,vite,wordpress,npm,github)](https://skillicons.dev)
 
 <br>
 
