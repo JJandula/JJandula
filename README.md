@@ -16,12 +16,12 @@ I'm a developer with 7 years of experience specializing in WordPress. I have a b
 
 ## Skills 
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vite,bootstrap,wordpress,npm,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,visualstudio,vite,wordpress,npm,github)](https://skillicons.dev)
 
 <br>
 
 ## Currently Learning
-[![Skills](https://skillicons.dev/icons?i=react,ts,angular,mysql,mongodb,java,php)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,angular,bootstrap,mysql,mongodb,java,php)](https://skillicons.dev)
 
 <br>
 
